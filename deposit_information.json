@@ -1,6 +1,6 @@
 {
 	"ContractParty" : "39002-0518045",
-	"DepositVersion" : "1.0.1.0",
+	"DepositVersion" : "1.0.1.0.50",
 	"DepositName" : "2",
 	"Encryption" : {
 		"Toolname" : "Encryptorg",
